@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
 Built-By: Administrateur
 Build-Jdk: 11
+Implementation-Title: metier
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.lacerisaie
+Implementation-URL: http://maven.apache.org
 Created-By: Maven Integration for Eclipse
 
